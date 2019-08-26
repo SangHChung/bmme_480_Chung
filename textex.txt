@@ -1,1 +1,4 @@
 HW1 text: by Sang H Chung
+added new branch dev
+
+Nice to meet you Sang. Hope you enjoy this course by Frank Wang
